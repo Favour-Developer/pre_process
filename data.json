@@ -1,0 +1,5263 @@
+{
+    "Student": [
+        {
+            "Enro": "16411001",
+            "Name": "Abhishek Kumar",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "8755517133",
+            "Room_No": "AF-01",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411006",
+            "Name": "Bharat Joshi",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "8755147706",
+            "Room_No": "AF-02",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411003",
+            "Name": "Adarsh Kumar Gupta",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7248393708",
+            "Room_No": "AF-03",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411002",
+            "Name": "Abhishek Thakur",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "8171784987",
+            "Room_No": "AF-04",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411021",
+            "Name": "Sandeep Kumar",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9572380311",
+            "Room_No": "AF-05",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411007",
+            "Name": "Anshul Dekate",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7768092478",
+            "Room_No": "AF-06",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411012",
+            "Name": "Lavish Gupta",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7017292166",
+            "Room_No": "AF-07",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411010",
+            "Name": "Kunal Sharma",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9461535078",
+            "Room_No": "AF-08",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117008",
+            "Name": "Ankit Vagmare",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9130709508",
+            "Room_No": "AF-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117061",
+            "Name": "Pritikesh Thakur",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9004097148",
+            "Room_No": "AF-10",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117058",
+            "Name": "Prakhar Mishra",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9115031877",
+            "Room_No": "AF-11",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117052",
+            "Name": "Omkar Raj",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9973611309",
+            "Room_No": "AF-12",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117018",
+            "Name": "Ashish Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8171781445",
+            "Room_No": "AF-13",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18112009",
+            "Name": "Aniket Sharma",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "8826034745",
+            "Room_No": "AF-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114006",
+            "Name": "Ajay Dayma",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9950874706",
+            "Room_No": "AF-16",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117003",
+            "Name": "Abhinav Bhatnagar",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9413352070",
+            "Room_No": "AF-17",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113009",
+            "Name": "Akash Kumar Shah",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8126111997",
+            "Room_No": "AF-18",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117041",
+            "Name": "Jalaj Kumar Madaan",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-8901324768",
+            "Room_No": "AF-19",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410011",
+            "Name": "Harish Kumar",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "9729464631",
+            "Room_No": "AF-20",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410010",
+            "Name": "Dushyant Dubey",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "8266849807",
+            "Room_No": "AF-21",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410023",
+            "Name": "Sandeep",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "9557910567",
+            "Room_No": "AF-22",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410020",
+            "Name": "Pritam Das",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "8650284727",
+            "Room_No": "AF-23",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410008",
+            "Name": "Ayush Kothifora",
+            "Class": "IMT GT",
+            "Dept": "Earth Science",
+            "Mob_No": "7060947487",
+            "Room_No": "AF-24",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410025",
+            "Name": "Siddharth Rajpriye",
+            "Class": "IMT GT",
+            "Dept": "Earth Science",
+            "Mob_No": "9649093349",
+            "Room_No": "AF-25",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410017",
+            "Name": "Naman Rajput",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "7253046137",
+            "Room_No": "AF-26",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410016",
+            "Name": "Mudit Bhutani",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "9557917944",
+            "Room_No": "AF-27",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410001",
+            "Name": "Abhinav Porwal",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "8989706687",
+            "Room_No": "AF-28",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113062",
+            "Name": "Paras Gupta",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9910639000",
+            "Room_No": "AF-29",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113093",
+            "Name": "Shivam Singh Paliwal ",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9616047077",
+            "Room_No": "AF-30",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15113133",
+            "Name": "Vivek Ranjan",
+            "Class": "B.Tech",
+            "Dept": "Civil",
+            "Mob_No": "7417203739",
+            "Room_No": "AF-31",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15113110",
+            "Name": "Saurabh Raj",
+            "Class": "B.Tech",
+            "Mob_No": "7677707730",
+            "Room_No": "AF-32",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117081",
+            "Name": "Rishabh",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9541111840",
+            "Room_No": "AF-33",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113073",
+            "Name": "Rajindra Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9758439343",
+            "Room_No": "AF-35",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113063",
+            "Name": "Pawan Bhadu",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9587587336",
+            "Room_No": "AF-36",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113074",
+            "Name": "Rakesh Kumar\r\nNaharwal",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9461203029",
+            "Room_No": "AF-37",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113024",
+            "Name": "Bal Krishan",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9756325626",
+            "Room_No": "AF-39",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117067",
+            "Name": "Paramjeet Kumar Lalla",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "7413028005",
+            "Room_No": "AF-40",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113072",
+            "Name": "Rahul Sharma",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7690830086",
+            "Room_No": "AF-41",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117068",
+            "Name": "Parth Gupta",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9636703177",
+            "Room_No": "AF-42",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17910032",
+            "Name": "Uttam Singh",
+            "Class": "PHD",
+            "Dept": "PHD",
+            "Mob_No": "945556522",
+            "Room_No": "AF-43",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117082",
+            "Name": "Sharjil Salam Khan",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "9852713496",
+            "Room_No": "AF-44",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117066",
+            "Name": "Panchal Vedant Vipulkumar",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9825490951",
+            "Room_No": "AF-45",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117014",
+            "Name": "Anshuman Jain",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9610744917",
+            "Room_No": "AF-46",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117062",
+            "Name": "Nikhil Agrawal",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-7697663639",
+            "Room_No": "AF-47",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117024",
+            "Name": "Birendar Yadav",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "9521376813",
+            "Room_No": "AF-48",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117100",
+            "Name": "Shubham Malviya",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-8529452639",
+            "Room_No": "AF-49",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117094",
+            "Name": "Sawan Deep Gavel",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-7489119819",
+            "Room_No": "AF-50",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113073",
+            "Name": "Naveen Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9719666118",
+            "Room_No": "AG-08",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113017",
+            "Name": "Anoop Singh",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8858064721",
+            "Room_No": "AG-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113065",
+            "Name": "Jitendra",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9918634190",
+            "Room_No": "AG-10",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113108",
+            "Name": "Shashank Singh",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9760422657",
+            "Room_No": "AG-11",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113122",
+            "Name": "Vaibhav Kaushik",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9810061413",
+            "Room_No": "AG-12",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113101",
+            "Name": "Rohit Niranjan",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7023511775",
+            "Room_No": "AG-13",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113091",
+            "Name": "Prashant Saraswat",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9927460024",
+            "Room_No": "AG-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113070",
+            "Name": "Kaushal",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "6377808378",
+            "Room_No": "AG-15",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113049",
+            "Name": "Jay Modi",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8120792558",
+            "Room_No": "AG-16",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113110",
+            "Name": "Tapan S. Chauhan",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9458790257",
+            "Room_No": "AG-17",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113031",
+            "Name": "Sarvesh Gandhi",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7798199687",
+            "Room_No": "AG-18",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113007",
+            "Name": "Anirudh Agarwal",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7030688390",
+            "Room_No": "AG-19",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113115",
+            "Name": "Vinayak Ogeppa ",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9610306276",
+            "Room_No": "AG-20",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113008",
+            "Name": "Akhilesh Sirohi",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8114455061",
+            "Room_No": "AG-21",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113047",
+            "Name": "Ishan Rai",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9532232399",
+            "Room_No": "AG-22",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113051",
+            "Name": "Kartik Joshi",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9828589327",
+            "Room_No": "AG-23",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113118",
+            "Name": "Viswas Manyam",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9059132168",
+            "Room_No": "AG-24",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113037",
+            "Name": "Divyanshu Ruhela",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9887215101",
+            "Room_No": "AG-25",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113001",
+            "Name": "Abhinav ",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7367979391",
+            "Room_No": "AG-26",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113086",
+            "Name": "Piyush Vyas",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9340057852",
+            "Room_No": "AG-27",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117016",
+            "Name": "Anurag Tanwar",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9828802415",
+            "Room_No": "AG-28",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117002",
+            "Name": "Aakash Choudhary",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-8435907624",
+            "Room_No": "AG-29",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113076",
+            "Name": "Nikhil Raizada",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9425361388",
+            "Room_No": "AG-30",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113022",
+            "Name": "Anvesh",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-8964086215",
+            "Room_No": "EG-07",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113022",
+            "Name": "Ashutosh Gupta",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8006465994",
+            "Room_No": "AG-32",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117071",
+            "Name": "Praddyumna Aniruddha Kulkarni",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-8805029256",
+            "Room_No": "AG-33",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113025",
+            "Name": "Boddupalli Thanmay\r\nSri Surya",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8171780576",
+            "Room_No": "AG-34",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16111005",
+            "Name": "Ankit Raj",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9971266122",
+            "Room_No": "AG-35",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113028",
+            "Name": "Divyam",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9999338161",
+            "Room_No": "AG-36",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113027",
+            "Name": "Dhruv P Khatri",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8006479529",
+            "Room_No": "AG-37",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117089",
+            "Name": "Tejas S. Patil",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9503074840",
+            "Room_No": "AS-01",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113003",
+            "Name": "Abhinav Chillar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7455053340",
+            "Room_No": "AS-02",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117074",
+            "Name": "Roshan Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9927955918",
+            "Room_No": "AS-03",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117024",
+            "Name": "Deepak Singh Verma",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8517882167",
+            "Room_No": "AS-04",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113002",
+            "Name": "Abhay Meena",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8171783580",
+            "Room_No": "AS-05",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113012",
+            "Name": "Aman Kumar Meena",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9413901682",
+            "Room_No": "AS-06",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113060",
+            "Name": "Nikhil Rajalwal",
+            "Class": "B.Tech",
+            "Dept": "Civil",
+            "Mob_No": "8755509906",
+            "Room_No": "AS-07",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113075",
+            "Name": "Ratan Lal Meena",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9571773324",
+            "Room_No": "AS-08",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117090",
+            "Name": "Sandeep Kumar",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9472275570",
+            "Room_No": "AS-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117077",
+            "Name": "Satyabrat Behera",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9958402954",
+            "Room_No": "AS-10",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117076",
+            "Name": "Satish Yadav",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7060501151",
+            "Room_No": "AS-11",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117006",
+            "Name": "Aditya Kumavat",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8755510137",
+            "Room_No": "AS-12",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117070",
+            "Name": "Riteesh Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8755177709",
+            "Room_No": "AS-13",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117041",
+            "Name": "Karthick Sridar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7409255614",
+            "Room_No": "AS-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411030",
+            "Name": "Vipul Dhurve",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9630041646",
+            "Room_No": "AS-15",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117043",
+            "Name": "Krishan Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9116918989",
+            "Room_No": "AS-16",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117017",
+            "Name": "Anshul Suri",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9417176284",
+            "Room_No": "AS-17",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117012",
+            "Name": "Amit Soren",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8755147348",
+            "Room_No": "AS-18",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411032",
+            "Name": "Vishvendra Singh",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7455840360",
+            "Room_No": "AS-19",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117004",
+            "Name": "Abhishek Singh",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7088363131",
+            "Room_No": "AS-20",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117005",
+            "Name": "Abhishek Singh Yadav",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8126122641",
+            "Room_No": "AS-21",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410013",
+            "Name": "Faraz Jamal Zaidi",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "6397342603",
+            "Room_No": "AS-22",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117042",
+            "Name": "Kashish Garg",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9417910105",
+            "Room_No": "AS-23",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117001",
+            "Name": "Abhinandan K Malik",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9465060887",
+            "Room_No": "AS-24",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117099",
+            "Name": "Shubham Jain",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-6264673048",
+            "Room_No": "AS-25",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117103",
+            "Name": "Silar Mohammed Tanwir",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9701813196",
+            "Room_No": "AS-26",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410026",
+            "Name": "Mayank Soni",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "9619610866",
+            "Room_No": "AS-26",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117091",
+            "Name": "Tejas Srivastava",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7065446044",
+            "Room_No": "AS-27",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117032",
+            "Name": "Gaurav Singhal",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9813421501",
+            "Room_No": "AS-28",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117035",
+            "Name": "Harsh Dabaria",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9460965099",
+            "Room_No": "AS-29",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117105",
+            "Name": "Sujit Sable",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "9370273092",
+            "Room_No": "AS-30",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117098",
+            "Name": "Shivam Jee",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9773709491",
+            "Room_No": "AS-31",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113080",
+            "Name": "Mandeep",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-8222837343",
+            "Room_No": "AS-32",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113081",
+            "Name": "Manish",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9461370013",
+            "Room_No": "AS-33",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117063",
+            "Name": "Pranjal Singh",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7060609214",
+            "Room_No": "AS-34",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16118068",
+            "Name": "Sachin Chopra",
+            "Class": "#ERROR!",
+            "Dept": "MIED",
+            "Mob_No": "8755148310",
+            "Room_No": "AS-35",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117097",
+            "Name": "Shashi Kumar",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9464611355",
+            "Room_No": "AS-36",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117110",
+            "Name": "Tamanna Rami",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9610330528",
+            "Room_No": "AS-37",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113095",
+            "Name": "Puneet Dhaingar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9414146677",
+            "Room_No": "AS-38",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113090",
+            "Name": "Prashant Meena",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9413704041",
+            "Room_No": "AS-39",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117052",
+            "Name": "Mohit Sharma",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7597514408",
+            "Room_No": "AS-40",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117054",
+            "Name": "Mudit Singh",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9810758430",
+            "Room_No": "AS-41",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117089",
+            "Name": "Sumant Jat",
+            "Class": "B.Tech",
+            "Dept": "Mech",
+            "Mob_No": "8954239204",
+            "Room_No": "AS-42",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117057",
+            "Name": "Md Mahabub Mustafiz Khan",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-7001812178",
+            "Room_No": "AS-45",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18112041",
+            "Name": "Mohd Ansar",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9760134879",
+            "Room_No": "AS-46",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113018",
+            "Name": "Anirudh",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9812005915",
+            "Room_No": "AS-47",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113025",
+            "Name": "Arvin",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9467158352",
+            "Room_No": "AS-48",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113009",
+            "Name": "Akshat",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-8529447830",
+            "Room_No": "AS-49",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113028",
+            "Name": "Ashish",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9414414469",
+            "Room_No": "AS-50",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117071",
+            "Name": "Ritesh Ranjan",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9410571232",
+            "Room_No": "BF-01",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117072",
+            "Name": "Robin Sharma",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8894086424",
+            "Room_No": "BF-02",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411015",
+            "Name": "Pranay Lawhatre",
+            "Class": "IMT GPT",
+            "Dept": "Earth Science",
+            "Mob_No": "8171790168",
+            "Room_No": "BF-03",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411009",
+            "Name": "Krishna Mittal",
+            "Class": "IMT GPT",
+            "Dept": "Earth Science",
+            "Mob_No": "9669082220",
+            "Room_No": "BF-04",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411014",
+            "Name": "Manish Sharma",
+            "Class": "IMT GPT",
+            "Dept": "Earth Science",
+            "Mob_No": "7827001952",
+            "Room_No": "BF-05",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411024",
+            "Name": "Shreyansh Nandan",
+            "Class": "IMT GPT",
+            "Dept": "Earth Science",
+            "Mob_No": "7906206470",
+            "Room_No": "BF-06",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411004",
+            "Name": "Alen",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7409227673",
+            "Room_No": "BF-07",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411017",
+            "Name": "Rishabh Raina",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "8171791981",
+            "Room_No": "BF-08",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113050",
+            "Name": "Mayank Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8192005112",
+            "Room_No": "BF-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410021",
+            "Name": "Sambit Sarkar",
+            "Class": "IMT GPT",
+            "Dept": "Earth Science",
+            "Mob_No": "8755182329",
+            "Room_No": "BF-10",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411011",
+            "Name": "Mrityunjay Bhargav",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7976701291",
+            "Room_No": "BF-11",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411019",
+            "Name": "Rimple Malik",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "8059560404",
+            "Room_No": "BF-12",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411020",
+            "Name": "Sanchit Minocha",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "8076694731",
+            "Room_No": "BF-13",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411009",
+            "Name": "Maanvendra Khaliya",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9414574904",
+            "Room_No": "BF-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411016",
+            "Name": "Rajeev Lohiya",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9414294614",
+            "Room_No": "BF-15",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411002",
+            "Name": "Damanpreet Singh",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "8979995962",
+            "Room_No": "BF-16",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411027",
+            "Name": "Umesh Saini",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9760900405",
+            "Room_No": "BF-18",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410006",
+            "Name": "Arif Hussain",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9460987835",
+            "Room_No": "BF-19",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18121008",
+            "Name": "Anurag",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9991638407",
+            "Room_No": "BF-20",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117066",
+            "Name": "Raj Gangwar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8954043674",
+            "Room_No": "BF-21",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117065",
+            "Name": "Rachit  Semalty",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7409120766",
+            "Room_No": "BF-22",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113054",
+            "Name": "Naman Bajaj",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8114484019",
+            "Room_No": "BF-23",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113047",
+            "Name": "Madhusudan Jilowa",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9462746116",
+            "Room_No": "BF-24",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16118051",
+            "Name": "Mayur Khandelwal",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8210890613",
+            "Room_No": "BF-25",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113052",
+            "Name": "Mohit Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8191860710",
+            "Room_No": "BF-26",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113035",
+            "Name": "Bookwala M.",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9175997929",
+            "Room_No": "BF-27",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113057",
+            "Name": "Navneet Singh",
+            "Class": "B.Tech",
+            "Dept": "Civil",
+            "Mob_No": "7860287408",
+            "Room_No": "BF-28",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113011",
+            "Name": "Aman Gupta",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9610873664",
+            "Room_No": "BF-29",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117045",
+            "Name": "Lavkush Verma",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9450024970",
+            "Room_No": "BG-01",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117087",
+            "Name": "Tarun Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9627281903",
+            "Room_No": "BG-02",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117093",
+            "Name": "Utkarsh Aashu Mishra",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8394852072",
+            "Room_No": "BG-03",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117097",
+            "Name": "Vikas Deep",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9463619265",
+            "Room_No": "BG-04",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113041",
+            "Name": "Devesh",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-8529429246",
+            "Room_No": "BG-05",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117084",
+            "Name": "Shubham Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9780193019",
+            "Room_No": "BG-06",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117100",
+            "Name": "Yash Jha",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8958376575",
+            "Room_No": "BG-07",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117009",
+            "Name": "Akhil Kumar Singh",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9627528665",
+            "Room_No": "BG-08",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117086",
+            "Name": "Sourav Meena",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7568725115",
+            "Room_No": "BG-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113019",
+            "Name": "Ankit",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-8529427827",
+            "Room_No": "BG-10",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113024",
+            "Name": "Arpit",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9694658089",
+            "Room_No": "BG-11",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117021",
+            "Name": "Chinmay Shrivastava",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9425964601",
+            "Room_No": "BG-12",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117034",
+            "Name": "Harshit Rawal",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8570831120",
+            "Room_No": "BG-13",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117009",
+            "Name": "Anshul P.Tembhurne",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7387075823",
+            "Room_No": "BG-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113045",
+            "Name": "Divyansh",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-8556901088",
+            "Room_No": "BG-15",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411028",
+            "Name": "Upendra Kumar Gupta",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7417729954",
+            "Room_No": "BG-16",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411004",
+            "Name": "Jaishil Sharma",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "8266855305",
+            "Room_No": "BG-17",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117039",
+            "Name": "Kamaldeep",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9255165328",
+            "Room_No": "BG-20",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117065",
+            "Name": "Pushpraj Pratap Singh",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9412327844",
+            "Room_No": "BG-21",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117024",
+            "Name": "Devinder Kumar Singh",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7999753406",
+            "Room_No": "BG-22",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117063",
+            "Name": "Prince Garg",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "7525014525",
+            "Room_No": "BG-23",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117014",
+            "Name": "Arpan",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "8395848493",
+            "Room_No": "BG-24",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117001",
+            "Name": "Abhishek Choudhary",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9413687820",
+            "Room_No": "BG-25",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117085",
+            "Name": "Swapnil Agarwal",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7869944007",
+            "Room_No": "BG-26",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117071",
+            "Name": "Ritwik Jha",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9001285801",
+            "Room_No": "BG-27",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17112078",
+            "Name": "Sudhang Varshney",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8475000273",
+            "Room_No": "BS-01",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117015",
+            "Name": "Atharva Dhanesh Ghadge",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8283936567",
+            "Room_No": "BS-02",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117102",
+            "Name": "Sidhant Chandan",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-8529744922",
+            "Room_No": "BS-03",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117031",
+            "Name": "Gaurav Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9997408121",
+            "Room_No": "BS-04",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117044",
+            "Name": "Kunadan Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8538944757",
+            "Room_No": "BS-05",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117092",
+            "Name": "Sankalp Chaudhary",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-8320054060",
+            "Room_No": "BS-06",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117047",
+            "Name": "Mayank Gautam",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8107084118",
+            "Room_No": "BS-06",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410025",
+            "Name": "Siddhartha Lovewanshi",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7415840565",
+            "Room_No": "BS-07",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410030",
+            "Name": "Vivek Singh",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9425726597",
+            "Room_No": "BS-08",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410011",
+            "Name": "Ashish Kumar Sahoo",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9178176404",
+            "Room_No": "BS-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113034",
+            "Name": "Dilkush Malav",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8529578337",
+            "Room_No": "BS-10",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113026",
+            "Name": "Bhupesh Garg",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9216271000",
+            "Room_No": "BS-11",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113027",
+            "Name": "Bijale Sheetal Vijay",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9602745850",
+            "Room_No": "BS-12",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117010",
+            "Name": "Anuj Joshi",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7600104866",
+            "Room_No": "BS-13",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117108",
+            "Name": "Swapnil",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9427606092",
+            "Room_No": "BS-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117089",
+            "Name": "Samarth Koolwal",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-7023985613",
+            "Room_No": "BS-15",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117064",
+            "Name": "Prince Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9973228399",
+            "Room_No": "BS-16",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117075",
+            "Name": "Sagar Maruti Madhekar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7038506874",
+            "Room_No": "BS-17",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117099",
+            "Name": "Yash Mathanker",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9424001520",
+            "Room_No": "BS-18",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117078",
+            "Name": "Saurabh Sonker",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9044310437",
+            "Room_No": "BS-19",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117092",
+            "Name": "Swapnil M. Thigale",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9011985274",
+            "Room_No": "BS-20",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117088",
+            "Name": "Subramaniya Siva",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9444628212",
+            "Room_No": "BS-21",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117044",
+            "Name": "Lakshya Gothwal",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9560590805",
+            "Room_No": "BS-22",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410005",
+            "Name": "Akshat Garg",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "8006480606",
+            "Room_No": "BS-23",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410001",
+            "Name": "Aaradhya Saxena",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9639293454",
+            "Room_No": "BS-24",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410023",
+            "Name": "Shashank P.M",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "9952017760",
+            "Room_No": "BS-25",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410008",
+            "Name": "Anirudh Dagar",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "9810610532",
+            "Room_No": "BS-26",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410006",
+            "Name": "Aman Bhandula",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "7500454752",
+            "Room_No": "BS-27",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410017",
+            "Name": "Madhvendra Pratap Singh",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "8192011020",
+            "Room_No": "BS-28",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410026",
+            "Name": "Mayak S. Soni",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "9619610866",
+            "Room_No": "BS-29",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117029",
+            "Name": "Durgesh Singh",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8354003300",
+            "Room_No": "CF-01",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117027",
+            "Name": "Divya Raj",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9801126064",
+            "Room_No": "CF-02",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117026",
+            "Name": "Dinesh Chaudhary",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8849176648",
+            "Room_No": "CF-03",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117021",
+            "Name": "Bipul",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7409239603",
+            "Room_No": "CF-04",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117019",
+            "Name": "B.Sri Vardhan Reddy",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9494368048",
+            "Room_No": "CF-05",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117034",
+            "Name": "Gourisetti Vamsi Krishna",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8008845606",
+            "Room_No": "CF-06",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113110",
+            "Name": "Rishav",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "6264211794",
+            "Room_No": "CF-07",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410004",
+            "Name": "Aman Tandon",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9454715361",
+            "Room_No": "CF-08",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410018",
+            "Name": "Nipun Vashistha",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "8561092606",
+            "Room_No": "CF-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410002",
+            "Name": "Abhinav Rohilla",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "9760832725",
+            "Room_No": "CF-10",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410024",
+            "Name": "Shivam Shekhar",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "8090435377",
+            "Room_No": "CF-11",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113042",
+            "Name": "Dhruv",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9254134702",
+            "Room_No": "CF-12",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110020",
+            "Name": "Rajat Jain",
+            "Class": "B.Tech",
+            "Dept": "Arch",
+            "Mob_No": "9424076413",
+            "Room_No": "CF-13",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110034",
+            "Name": "Yash Khajanchi",
+            "Class": "B.Tech",
+            "Dept": "Arch",
+            "Mob_No": "8824576727",
+            "Room_No": "CF-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110004",
+            "Name": "Ashish",
+            "Class": "B.Tech",
+            "Dept": "Arch",
+            "Mob_No": "7073684256",
+            "Room_No": "CF-15",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110036",
+            "Name": "Yashwant Singh",
+            "Class": "B.Tech",
+            "Dept": "Arch",
+            "Mob_No": "8447298820",
+            "Room_No": "CF-16",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110027",
+            "Name": "Shivam Tripathi",
+            "Class": "B.Tech",
+            "Dept": "Arch",
+            "Mob_No": "7037922599",
+            "Room_No": "CF-17",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17110007",
+            "Name": "Ashwani Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9460914742",
+            "Room_No": "CF-18",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411022",
+            "Name": "Sarthak Sijaria",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "8650292633",
+            "Room_No": "CF-19",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411003",
+            "Name": "Harsh Raj Singh Chauhan",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7253046246",
+            "Room_No": "CF-20",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411005",
+            "Name": "Jayesh Verma",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9782599110",
+            "Room_No": "CF-21",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411018",
+            "Name": "Rakshit Jain",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9458112489",
+            "Room_No": "CF-22",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411008",
+            "Name": "K.Vivek Vardhan",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9553344670",
+            "Room_No": "CF-23",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411027",
+            "Name": "Surendra Meena",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7535023702",
+            "Room_No": "CF-24",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411016",
+            "Name": "Ram Munda",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7252066594",
+            "Room_No": "CF-25",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16117036",
+            "Name": "Jalada Ganesh",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9032230013",
+            "Room_No": "CF-26",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411021",
+            "Name": "Sandeep Kumar",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7060908293",
+            "Room_No": "CG-01",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411024",
+            "Name": "Sujay Kumar Singh",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9.17217E+11",
+            "Room_No": "CG-02",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410027",
+            "Name": "Abhishek C. Thaker",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "7253046270",
+            "Room_No": "CG-03",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117056",
+            "Name": "Piyush Jadiya",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8765780650",
+            "Room_No": "CG-04",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411007",
+            "Name": "Krishna Priya",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7856048599",
+            "Room_No": "CG-05",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117040",
+            "Name": "Kanishk Malav",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9079618343",
+            "Room_No": "CG-06",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117011",
+            "Name": "Anupriy Shrivastava",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9911149789",
+            "Room_No": "CG-07",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "14411002",
+            "Name": "Anurag Raj",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "8791700554",
+            "Room_No": "CG-08",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411023",
+            "Name": "Shourya Tomer",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7217216346",
+            "Room_No": "CG-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117049",
+            "Name": "Namam Chaudhary",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7830557843",
+            "Room_No": "CG-10",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113047",
+            "Name": "Gaurav",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9414601989",
+            "Room_No": "CG-11",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113145",
+            "Name": "Vibhu",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9709038555",
+            "Room_No": "CG-12",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411026",
+            "Name": "Tushar Gautam",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7018367593",
+            "Room_No": "CG-13",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117097",
+            "Name": "Vishal Rai",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9102055585",
+            "Room_No": "CG-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117042",
+            "Name": "Keshwam Verma",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8901120295",
+            "Room_No": "CG-15",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117051",
+            "Name": "Nikhil Mittal",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9406485279",
+            "Room_No": "CG-16",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411015",
+            "Name": "Praveen Singh",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9454116530",
+            "Room_No": "CG-17",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117055",
+            "Name": "Parveen",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9466679434",
+            "Room_No": "CG-18",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117059",
+            "Name": "Pranav Dev",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9450237729",
+            "Room_No": "CG-19",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117012",
+            "Name": "Anuraag",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9415900594",
+            "Room_No": "CG-20",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117013",
+            "Name": "Apar Harsh Chandra",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8923710482",
+            "Room_No": "CG-21",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117076",
+            "Name": "Saurabh Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9873514126",
+            "Room_No": "CG-22",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113141",
+            "Name": "Tarun",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9610683558",
+            "Room_No": "CG-23",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113120",
+            "Name": "Sanskar",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-7073872650",
+            "Room_No": "CG-24",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113033",
+            "Name": "Dheeraj Kumar Meena",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9529791501",
+            "Room_No": "CS-01",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113097",
+            "Name": "Rahul Gomladu",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7454849531",
+            "Room_No": "CS-02",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113114",
+            "Name": "Shubham Meena",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9461608661",
+            "Room_No": "CS-03",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117072",
+            "Name": "Pranay Janbandhu",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "7972623247",
+            "Room_No": "CS-04",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17110022",
+            "Name": "Prem Kumar",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "8544186470",
+            "Room_No": "CS-05",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17110030",
+            "Name": "Tapan Jagdish Parmar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7726013938",
+            "Room_No": "CS-06",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17110009",
+            "Name": "Dhirendra Kumar Godara",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9571102330",
+            "Room_No": "CS-07",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110010",
+            "Name": "Kumar Harsh",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "8266036472",
+            "Room_No": "CS-08",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110004",
+            "Name": "Anandu Gopal",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "91-9846663168",
+            "Room_No": "CS-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110021",
+            "Name": "Sanjeev Krishnan",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "8148095505",
+            "Room_No": "CS-10",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17110023",
+            "Name": "Ravinda Mogre",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8889948918",
+            "Room_No": "CS-11",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110026",
+            "Name": "Shende Tushar Kailas",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "7588753393",
+            "Room_No": "CS-12",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17110027",
+            "Name": "Shubham Singarya",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8182033954",
+            "Room_No": "CS-13",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17110011",
+            "Name": "Kartikeya Rai",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9415367291",
+            "Room_No": "CS-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110023",
+            "Name": "Rishi",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "7253046148",
+            "Room_No": "CS-15",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110035",
+            "Name": "Yashdeep Singh",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "9557946647",
+            "Room_No": "CS-16",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411008",
+            "Name": "Kunal",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "8814950509",
+            "Room_No": "CS-17",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411012",
+            "Name": "Narendra Kumar",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "8302212972",
+            "Room_No": "CS-18",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110024",
+            "Name": "Sagar Nassa",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "9760825726",
+            "Room_No": "CS-19",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110011",
+            "Name": "Drup Kubadia",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "91-9824592366",
+            "Room_No": "CS-20",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110021",
+            "Name": "Rajneesh Kumar Lodhi",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "9557917623",
+            "Room_No": "CS-21",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110033",
+            "Name": "Vedanand Kumar",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "7500086713",
+            "Room_No": "CS-22",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110022",
+            "Name": "Rishabh Dev",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "8979998652",
+            "Room_No": "CS-23",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110015",
+            "Name": "Prakhar Kothari",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "91-9414041231",
+            "Room_No": "CS-24",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110012",
+            "Name": "Manas Avinashe",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "91-9168411068",
+            "Room_No": "CS-25",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110014",
+            "Name": "Parag Bharadiya",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "91-9723096726",
+            "Room_No": "CS-26",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114042",
+            "Name": "Kanav Gupta",
+            "Class": "B.Tech",
+            "Dept": "CSE",
+            "Mob_No": "9599346343",
+            "Room_No": "DF-01",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114041",
+            "Name": "Kale Mahesh Jyotiba",
+            "Class": "B.Tech",
+            "Dept": "CSE",
+            "Mob_No": "9420578462",
+            "Room_No": "DF-02",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114052",
+            "Name": "Nikunj Gupta",
+            "Class": "B.Tech",
+            "Dept": "CSE",
+            "Mob_No": "7503768269",
+            "Room_No": "DF-03",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113016",
+            "Name": "Ankit Meena",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7733006234",
+            "Room_No": "DF-04",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113086",
+            "Name": "Saurabh Kant Sharma",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9897947639",
+            "Room_No": "DF-05",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114040",
+            "Name": "Jaiswal Jaynil",
+            "Class": "B.Tech",
+            "Dept": "CSE",
+            "Mob_No": "9408009959",
+            "Room_No": "DF-06",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113078",
+            "Name": "Rohit Dhanraj",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9219562117",
+            "Room_No": "DF-07",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114029",
+            "Name": "Gandhi Ronnie",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7874243430",
+            "Room_No": "DF-08",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114064",
+            "Name": "Rohit Agarwal",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7340605885",
+            "Room_No": "DF-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114064",
+            "Name": "Rohit Ashiwan",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7340605885",
+            "Room_No": "DF-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15113014",
+            "Name": "Aman Kumar",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Room_No": "DF-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114067",
+            "Name": "Sameer Gupta",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9602899837",
+            "Room_No": "DF-10",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114014",
+            "Name": "Ashish Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7302202035",
+            "Room_No": "DF-11",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117059",
+            "Name": "Mohit Choudhary",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-8952930006",
+            "Room_No": "DF-12",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117082",
+            "Name": "Rishiraj Gupta",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9950161341",
+            "Room_No": "DF-13",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110004",
+            "Name": "Ashish",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "7073684256",
+            "Room_No": "DF-13",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117075",
+            "Name": "Rahul Panjwani",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-7424906422",
+            "Room_No": "DF-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110036",
+            "Name": "Yashwant Singh",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "8447298820",
+            "Room_No": "DF-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117063",
+            "Name": "Nishant Bhansali",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9173436785",
+            "Room_No": "DF-15",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110034",
+            "Name": "Yash Khajanchi",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "8824576727",
+            "Room_No": "DF-15",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117053",
+            "Name": "Manas Chaudhary",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-7678464083",
+            "Room_No": "DF-16",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110020",
+            "Name": "Rajat Jain",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "9424076413",
+            "Room_No": "DF-16",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117008",
+            "Name": "Akshat Khandelwal",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "8527036580",
+            "Room_No": "DF-17",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110027",
+            "Name": "Shivam Tripathi",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "7037922599",
+            "Room_No": "DF-17",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16118039",
+            "Name": "Hitesh Khairwal",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8126126249",
+            "Room_No": "DF-18",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410013",
+            "Name": "Himanshu Shrotriy",
+            "Class": "IMT GT",
+            "Dept": "Earth Science",
+            "Mob_No": "9111116061",
+            "Room_No": "DF-19",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410003",
+            "Name": "Aditya Soni",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7597298876",
+            "Room_No": "DF-20",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110028",
+            "Name": "Shubham Sharma",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8979969865",
+            "Room_No": "DF-21",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110019",
+            "Name": "Rahul Nainawat",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9557903103",
+            "Room_No": "DF-22",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110013",
+            "Name": "Manish Kumar Kushwaha",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "9456522346",
+            "Room_No": "DF-23",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110006",
+            "Name": "Bibhudatta Sa",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "7077394263",
+            "Room_No": "DF-24",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410014",
+            "Name": "Kumar Chandranshu",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "9523672083",
+            "Room_No": "DF-25",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410019",
+            "Name": "Nitin Bansal",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "7500014507",
+            "Room_No": "DF-26",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410028",
+            "Name": "Yashvardhan Gaur",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "8791183920",
+            "Room_No": "DF-27",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113027",
+            "Name": "Aryan Saini",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9466823994",
+            "Room_No": "DG-01",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113038",
+            "Name": "Deepak Chauhan",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9415780615",
+            "Room_No": "DG-02",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113079",
+            "Name": "Kushagra ",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-7007730748",
+            "Room_No": "DG-03",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117113",
+            "Name": "Vipin Kumar",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-8059431150",
+            "Room_No": "DG-04",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114050",
+            "Name": "Narendra Patel",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9106371048",
+            "Room_No": "DG-05",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117114",
+            "Name": "Vishek Fogat",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-8107071212",
+            "Room_No": "DG-06",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114058",
+            "Name": "Pradhumna Rathore",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9893239395",
+            "Room_No": "DG-07",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114065",
+            "Name": "Rohit Raj",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Room_No": "DG-08",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114015",
+            "Name": "Ashutosh Chaubey",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7224867609",
+            "Room_No": "DG-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114017",
+            "Name": "Ayush Agarwal",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9414418664",
+            "Room_No": "DG-10",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114070",
+            "Name": "Shashank Kashyap",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8233645744",
+            "Room_No": "DG-11",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114056",
+            "Name": "Piyush Makwana",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9571381146",
+            "Room_No": "DG-12",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114019",
+            "Name": "Bhanu Pratap",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7302202215",
+            "Room_No": "DG-13",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114055",
+            "Name": "Peddi Krishna\r\nYeswanth",
+            "Class": "B.Tech",
+            "Dept": "CSE",
+            "Mob_No": "9494352394",
+            "Room_No": "DG-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114021",
+            "Name": "B. Sasi Kiran",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9121013559",
+            "Room_No": "DG-15",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18118069",
+            "Name": "Soumyajeet Jaiswal",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9926458958",
+            "Room_No": "DG-16",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18118014",
+            "Name": "Arpit Khandelwal",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9899197651",
+            "Room_No": "DG-17",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18111028",
+            "Name": "Shrey Shukla",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-8005485393",
+            "Room_No": "DG-18",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18119008",
+            "Name": "Arnav Sambhare",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-8376901236",
+            "Room_No": "DG-19",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117032",
+            "Name": "Guddu Singh",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-8949737650",
+            "Room_No": "DG-20",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117025",
+            "Name": "Divesh Kumar",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-7542925050",
+            "Room_No": "DG-21",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114059",
+            "Name": "Prateek Mali",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8871192021",
+            "Room_No": "DG-22",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114063",
+            "Name": "Ritik Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7091202823",
+            "Room_No": "DG-23",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410021",
+            "Name": "Priyanshu Singh Solanki",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "9424416994",
+            "Room_No": "DG-24",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114049",
+            "Name": "Mula Ram",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7823878085",
+            "Room_No": "DG-25",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114002",
+            "Name": "Abhijeet Shakya",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8107687369",
+            "Room_No": "DG-26",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113032",
+            "Name": "Govind Singh",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7597101440",
+            "Room_No": "DS-01",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410015",
+            "Name": "Jaideep Kumar",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "9468875815",
+            "Room_No": "DS-02",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117015",
+            "Name": "Anurag Jha",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-7737814816",
+            "Room_No": "DS-03",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113116",
+            "Name": "Vinod Kumar Jakhar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9166915276",
+            "Room_No": "DS-04",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117029",
+            "Name": "Gaurav Raj",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9430878262",
+            "Room_No": "DS-05",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117030",
+            "Name": "Gautam Zindal",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-8271008748",
+            "Room_No": "DS-06",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117038",
+            "Name": "Himanshu Yadav",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9416593401",
+            "Room_No": "DS-07",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117115",
+            "Name": "Yashwant Yadav",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9871960646",
+            "Room_No": "DS-08",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117036",
+            "Name": "Hemant Chopra",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9928570382",
+            "Room_No": "DS-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117034",
+            "Name": "Gurtej Singh",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9416433228",
+            "Room_No": "DS-10",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117093",
+            "Name": "Sarthak Baghel",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9925221695",
+            "Room_No": "DS-12",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117018",
+            "Name": "Avnish Singh",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-8889022575",
+            "Room_No": "DS-13",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117035",
+            "Name": "Harshil Mendiratta",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9406728049",
+            "Room_No": "DS-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110002",
+            "Name": "Akhil Goyal",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "9557910446",
+            "Room_No": "DS-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110003",
+            "Name": "Amit Anand",
+            "Class": "B.Tech",
+            "Dept": "Arch",
+            "Mob_No": "8979997072",
+            "Room_No": "DS-15",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110003",
+            "Name": "Amit Anand",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "8979997072",
+            "Room_No": "DS-15",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117027",
+            "Name": "Gaurav Kumar",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-7413947792",
+            "Room_No": "DS-16",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113035",
+            "Name": "Dinesh Rulaniya",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9571216662",
+            "Room_No": "DS-17",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113004",
+            "Name": "Adhesh",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9571659754",
+            "Room_No": "DS-18",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117010",
+            "Name": "Aman Aggarwal",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9636182410",
+            "Room_No": "DS-20",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411014",
+            "Name": "Prateek Maliwal",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7060863609",
+            "Room_No": "DS-21",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411017",
+            "Name": "Rajeshvar Nagal",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "8755916820",
+            "Room_No": "DS-22",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117046",
+            "Name": "Kshitij Gupta",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-8003397211",
+            "Room_No": "DS-23",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110031",
+            "Name": "Trilok Panwar",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "7597332422",
+            "Room_No": "DS-25",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110014",
+            "Name": "Mukul Goyal",
+            "Class": "B.Tech",
+            "Dept": "Arch",
+            "Mob_No": "7060863695",
+            "Room_No": "DS-26",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110014",
+            "Name": "Mukul Goyal",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "7060863695",
+            "Room_No": "DS-26",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117037",
+            "Name": "Himanshu Akodiya",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9413824483",
+            "Room_No": "DS-27",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117004",
+            "Name": "Abhiram K B",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-9605192308",
+            "Room_No": "DS-28",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411018",
+            "Name": "Sahil Kumar",
+            "Class": "IMT GPT",
+            "Dept": "Earth Science",
+            "Mob_No": "8755182448",
+            "Room_No": "EF-01",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411031",
+            "Name": "Vishal Furohit",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "8954259799",
+            "Room_No": "EF-02",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410029",
+            "Name": "Tejas Warathe",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7415540835",
+            "Room_No": "EF-05",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411029",
+            "Name": "Vakul Singh",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "8755183027",
+            "Room_No": "EF-06",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113057",
+            "Name": "Kunal Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8273714457",
+            "Room_No": "EF-07",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113082",
+            "Name": "Paras Singh Rajput",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9179727002",
+            "Room_No": "EF-08",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18410022",
+            "Name": "Rocky ",
+            "Class": "GT",
+            "Dept": "GT",
+            "Mob_No": "9065001726",
+            "Room_No": "EF-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113013",
+            "Name": "Ankit Garg",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9837071285",
+            "Room_No": "EF-10",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113130",
+            "Name": "Vishesh Prakash Srivastava",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7839615602",
+            "Room_No": "EF-11",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113116",
+            "Name": "Siddharth Varshney",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8146641344",
+            "Room_No": "EF-12",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18410024",
+            "Name": "Shubendu ",
+            "Class": "GT",
+            "Dept": "GT",
+            "Mob_No": "91-8274937768",
+            "Room_No": "EF-13",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18410005",
+            "Name": "Anuj",
+            "Class": "GT",
+            "Dept": "GT",
+            "Mob_No": "9005329347",
+            "Room_No": "EF-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113132",
+            "Name": "Yash Agarwal",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9572851250",
+            "Room_No": "EF-15",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113127",
+            "Name": "Vikas Agarwal",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8109963632",
+            "Room_No": "EF-16",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411019",
+            "Name": "Mohit Kapil",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-9068052954 ",
+            "Room_No": "EF-17",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411013",
+            "Name": "Harsh Vardhan Verma",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-8989162766",
+            "Room_No": "EF-18",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411022",
+            "Name": "Prashik Duryodhan Raut",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-9405671845",
+            "Room_No": "EF-19",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110018",
+            "Name": "Rohan Kumar ",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "91-8210920516",
+            "Room_No": "EF-20",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110028",
+            "Name": "Yash Srivastav",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "91-9411547606",
+            "Room_No": "EF-21",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110013",
+            "Name": "Mohit Gupta",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "91-7524971757",
+            "Room_No": "EF-22",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110022",
+            "Name": "Satyam Kushwah",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "91-8529563081",
+            "Room_No": "EF-23",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110005",
+            "Name": "Anurag Mahajan",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "91-9027470231",
+            "Room_No": "EF-24",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110025",
+            "Name": "Varun Shewale",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "91-9822778209",
+            "Room_No": "EF-25",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110017",
+            "Name": "Pranjal Agrawal",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "91-9794352645",
+            "Room_No": "EF-26",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113124",
+            "Name": "Vedant Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8544025835",
+            "Room_No": "EG-01",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113065",
+            "Name": "Mehul Shrimali",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7302202029",
+            "Room_No": "EG-02",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113069",
+            "Name": "Mudit Agarwal",
+            "Class": "B.Tech",
+            "Dept": "Civil",
+            "Mob_No": "9415335732",
+            "Room_No": "EG-03",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113131",
+            "Name": "Vishwas Rawat",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7615005257",
+            "Room_No": "EG-04",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113042",
+            "Name": "Harsh Vardhan",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9411271904",
+            "Room_No": "EG-05",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113067",
+            "Name": "Mohd. Shadab Siddiqui",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9893592931",
+            "Room_No": "EG-06",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110025",
+            "Name": "Sai Vivek Kalive Mula",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "7417227242",
+            "Room_No": "EG-08",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110015",
+            "Name": "Neeraj Kumar Salvi",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "8979991069",
+            "Room_No": "EG-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110016",
+            "Name": "Nirbhay Singh",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "8126481717",
+            "Room_No": "EG-10",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113133",
+            "Name": "Yash Khandelwal",
+            "Class": "B.Tech",
+            "Dept": "Civil",
+            "Mob_No": "7976568581",
+            "Room_No": "EG-11",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410007",
+            "Name": "Ashutosh Chaudhary",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7766836776",
+            "Room_No": "EG-12",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110003",
+            "Name": "Anand Kasudhan",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "8601195071",
+            "Room_No": "EG-13",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110005",
+            "Name": "Ashutosh Gautam",
+            "Class": "B.Tech",
+            "Dept": "Arch",
+            "Mob_No": "9808079800",
+            "Room_No": "EG-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110018",
+            "Name": "Prajwal Kamboj",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "7310658308",
+            "Room_No": "EG-15",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110019",
+            "Name": "Sagar Sethi",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "91-8456057137",
+            "Room_No": "EG-16",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110026",
+            "Name": "Vikas Singh",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "91-8800512167",
+            "Room_No": "EG-17",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110002",
+            "Name": "Amit Yadav",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "91-9454545296",
+            "Room_No": "EG-18",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113066",
+            "Name": "Mohammad Asif",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9636097155",
+            "Room_No": "EG-19",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110016",
+            "Name": "Prakhar Tamta",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "91-9927281112",
+            "Room_No": "EG-20",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110020",
+            "Name": "Sahilverma",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "91-9992019594",
+            "Room_No": "EG-21",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110006",
+            "Name": "Ashish Pawar",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "91-7409493430",
+            "Room_No": "EG-22",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113125",
+            "Name": "Vedant Neekhra",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9425429725",
+            "Room_No": "EG-23",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113126",
+            "Name": "Vedavyas Danturi",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8424912484",
+            "Room_No": "EG-24",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113089",
+            "Name": "Shantanu Chandra",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9971767267",
+            "Room_No": "EG-25",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17113134",
+            "Name": "Yashraj Bimalbhai Jariwala",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9328770900",
+            "Room_No": "EG-26",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110010",
+            "Name": "Divyanshu Kachhap",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7895025328",
+            "Room_No": "ES-01",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110023",
+            "Name": "Nimay Jayesh Bagadia",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9869270994",
+            "Room_No": "ES-02",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110014",
+            "Name": "Jaswant Parihar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8755145063",
+            "Room_No": "ES-03",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17110008",
+            "Name": "Avinash Garg",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "9891260100",
+            "Room_No": "ES-04",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110030",
+            "Name": "Shekhar Kumar Kisku",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7252066595",
+            "Room_No": "ES-05",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113079",
+            "Name": "Rohit Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8449514605",
+            "Room_No": "ES-06",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410018",
+            "Name": "Manas Fonia",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "7078102030",
+            "Room_No": "ES-07",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110035",
+            "Name": "Yashu Gupta",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9855786556",
+            "Room_No": "ES-08",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110033",
+            "Name": "Vaibhav Pandit",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9761052679",
+            "Room_No": "ES-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110012",
+            "Name": "Purvil Gandhi",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8171780494",
+            "Room_No": "ES-10",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110028",
+            "Name": "Sanyam Jain",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8755510474",
+            "Room_No": "ES-11",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110009",
+            "Name": "Divyang",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9968282712",
+            "Room_No": "ES-12",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110026",
+            "Name": "Saksham Kashyap",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8130590101",
+            "Room_No": "ES-13",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110008",
+            "Name": "Dhawal Pagay",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9953037536",
+            "Room_No": "ES-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110013",
+            "Name": "Hunny Bidlan",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9466597115",
+            "Room_No": "ES-15",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110032",
+            "Name": "Sushant Sharda",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9414705406",
+            "Room_No": "ES-16",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110017",
+            "Name": "Lovepreet Singh",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9914632502",
+            "Room_No": "ES-17",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110003",
+            "Name": "Akash Angural",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8171781146",
+            "Room_No": "ES-18",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110006",
+            "Name": "Ashwani Yadav",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9045751385",
+            "Room_No": "ES-19",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15110007",
+            "Name": "Chadra Bhushan Raman",
+            "Class": "B. Arch",
+            "Dept": "B. Arch",
+            "Mob_No": "75005002845",
+            "Room_No": "ES-20",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110011",
+            "Name": "Gagan Bharti",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9792966085",
+            "Room_No": "ES-20",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110004",
+            "Name": "Aman Gora",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7597208366",
+            "Room_No": "ES-21",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110024",
+            "Name": "Niraj Kamal K",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9894874337",
+            "Room_No": "ES-22",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110001",
+            "Name": "Abdul Azeez M",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9597983613",
+            "Room_No": "ES-23",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18110023",
+            "Name": "Shivam Jaiswal",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "91-9619610204",
+            "Room_No": "ES-24",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110022",
+            "Name": "Muzakker Afroz",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8447203393",
+            "Room_No": "ES-25",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16110007",
+            "Name": "Ayush Patel",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9425386744",
+            "Room_No": "ES-26",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17110019",
+            "Name": "Nikhil Duggal",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8439959703",
+            "Room_No": "FF-01",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17110032",
+            "Name": "Yash H. Bharani",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9425302660",
+            "Room_No": "FF-02",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411024",
+            "Name": "Samarth Pran",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-9650850464",
+            "Room_No": "FF-03",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18410023",
+            "Name": "Shubhankar Garg",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "7348129685",
+            "Room_No": "FF-04",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411025",
+            "Name": "Utkarsh Kumar",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-9835264593",
+            "Room_No": "FF-05",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17110010",
+            "Name": "Divyanshu Tiwari",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7355905181",
+            "Room_No": "FF-07",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411008",
+            "Name": "Ashutosh Pal",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-8840014424",
+            "Room_No": "FF-08",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411005",
+            "Name": "Aman Kumar Singh",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-8765163017",
+            "Room_No": "FF-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411010",
+            "Name": "Devang Trivedi",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-9410887500",
+            "Room_No": "FF-10",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411025",
+            "Name": "Sumanyu Dixit",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "na",
+            "Room_No": "FF-11",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114018",
+            "Name": "Balwant Singh",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9460395049",
+            "Room_No": "FF-12",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411009",
+            "Name": "Deepak Yadav",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-9079543981",
+            "Room_No": "FF-13",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411028",
+            "Name": "Yash Sarraf",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-9475824725",
+            "Room_No": "FF-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18111002",
+            "Name": "Abhishek Rana",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-9536237466",
+            "Room_No": "FF-15",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411003",
+            "Name": "Aditya Agrawal",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-7424904576",
+            "Room_No": "FF-16",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411012",
+            "Name": "Harsh Sheoran",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-9717508455",
+            "Room_No": "FF-17",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411011",
+            "Name": "Ekaans Mohanty",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-9434792535",
+            "Room_No": "FF-18",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114862",
+            "Name": "Rahul Gome",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Room_No": "FF-19",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113059",
+            "Name": "Nikhil Maharshi",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7597598239",
+            "Room_No": "FF-20",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113049",
+            "Name": "Manish Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8006476352",
+            "Room_No": "FF-21",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113051",
+            "Name": "Mobin Ahmad",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7860338486",
+            "Room_No": "FF-22",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114037",
+            "Name": "Harshit Maurya",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9.19458E+11",
+            "Room_No": "FF-23",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113119",
+            "Name": "Vivek Dhaka",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9927956406",
+            "Room_No": "FF-24",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113053",
+            "Name": "Mukul",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7500037634",
+            "Room_No": "FF-25",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114016",
+            "Name": "Atul Sinha",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8890166658",
+            "Room_No": "FF-26",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114060",
+            "Name": "Pulkit Moharsingh",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9726234991",
+            "Room_No": "FF-27",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114032",
+            "Name": "Gaurav Dewat",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9079876270",
+            "Room_No": "FF-28",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114034",
+            "Name": "Goddu Vishal",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7680853132",
+            "Room_No": "FF-29",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411002",
+            "Name": "Abhishek Kumar",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-8059861924",
+            "Room_No": "FF-30",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113060",
+            "Name": "Indresh",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9419110943",
+            "Room_No": "FF-31",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113055",
+            "Name": "Heera Lal",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-8107793639",
+            "Room_No": "FF-32",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113056",
+            "Name": "Hemant",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9875051125",
+            "Room_No": "FF-33",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "14410002",
+            "Name": "Amit Kumar",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7060334241",
+            "Room_No": "FF-33",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113048",
+            "Name": "Gaurav Pratap",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-8545887327",
+            "Room_No": "FF-34",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113051",
+            "Name": "Harsh",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-7694880389",
+            "Room_No": "FF-35",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410012",
+            "Name": "Harsh Jindal",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "8800817398",
+            "Room_No": "FG-01",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411017",
+            "Name": "Kushagra Agrawal",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-7532989189",
+            "Room_No": "FG-02",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114003",
+            "Name": "Abhik Chakraborthy",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8787493441",
+            "Room_No": "FG-03",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411007",
+            "Name": "Arnab Das",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-9732746335",
+            "Room_No": "FG-04",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18410003",
+            "Name": "Abhishek Ranjan ",
+            "Class": "GT",
+            "Dept": "GT",
+            "Mob_No": "91-9708207744",
+            "Room_No": "FG-05",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114023",
+            "Name": "David Gokimmung",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8240071994",
+            "Room_No": "FG-06",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411021",
+            "Name": "Piyush",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-8529756940",
+            "Room_No": "FG-07",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113084",
+            "Name": "Mukul",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9413202624",
+            "Room_No": "FG-08",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113092",
+            "Name": "Pardeep Kumar",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-7740936239",
+            "Room_No": "FG-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114026",
+            "Name": "Dilip Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8769583553",
+            "Room_No": "FG-10",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113096",
+            "Name": "Pradeep Godara",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9629518241",
+            "Room_No": "FG-11",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113104",
+            "Name": "Rahul",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9413811541",
+            "Room_No": "FG-12",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113106",
+            "Name": "Rahul Shankhla",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9462628222",
+            "Room_No": "FG-13",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113070",
+            "Name": "Rahul Bijarniya",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9358781719",
+            "Room_No": "FG-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113114",
+            "Name": "Ronak ",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9460641767",
+            "Room_No": "FG-15",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113124",
+            "Name": "Saurabh",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-7080989593",
+            "Room_No": "FG-16",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113134",
+            "Name": "Sidharth",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9453588500",
+            "Room_No": "FG-17",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410015",
+            "Name": "Mandeep Aasiya",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "7217258872",
+            "Room_No": "FG-18",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113140",
+            "Name": "Suresh",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-8441018923",
+            "Room_No": "FG-19",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113064",
+            "Name": "Prakhar Saxena",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7055444014",
+            "Room_No": "FG-20",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113074",
+            "Name": "Khushal",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9461146776",
+            "Room_No": "FG-21",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113058",
+            "Name": "Himanshu",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9414001638",
+            "Room_No": "FG-22",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117060",
+            "Name": "Mohit Kumar",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "7579799281",
+            "Room_No": "FG-23",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18117078",
+            "Name": "Ravi Verma",
+            "Class": "B.Tech",
+            "Dept": "Mechanical",
+            "Mob_No": "91-7372957515",
+            "Room_No": "FG-24",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113076",
+            "Name": "Ravinder Pal Singh",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9414507341",
+            "Room_No": "FG-25",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113068",
+            "Name": "Pravesh Sharma",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7728066333",
+            "Room_No": "FG-26",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113069",
+            "Name": "Prince Kumar Singh",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9897290230",
+            "Room_No": "FG-27",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113048",
+            "Name": "Manish Bishnoi",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9929997326",
+            "Room_No": "FG-29",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114046",
+            "Name": "Kishan Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8709560460",
+            "Room_No": "FG-30",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114007",
+            "Name": "Akhilesh Kumar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8083387074",
+            "Room_No": "FG-31",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114004",
+            "Name": "Abhishek Jitendra Rathore",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9767521985",
+            "Room_No": "FG-32",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16121026",
+            "Name": "Raghav Jindal",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9478886996",
+            "Room_No": "FG-33",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113077",
+            "Name": "Rishabb Agarwal",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8006143429",
+            "Room_No": "FG-34",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17114013",
+            "Name": "Anshuman Shakya",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7054311012",
+            "Room_No": "FG-35",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15410009",
+            "Name": "Dhirendra Singh",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "8094976774",
+            "Room_No": "FS-01",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17110028",
+            "Name": "Shubham Verma",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "8077085794",
+            "Room_No": "FS-02",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17110031",
+            "Name": "Vaibhav Chauhan",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "9990546064",
+            "Room_No": "FS-03",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17110001",
+            "Name": "Abhishek Soni",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9314963949",
+            "Room_No": "FS-04",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18410013",
+            "Name": "Afham ",
+            "Class": "GT",
+            "Dept": "GT",
+            "Room_No": "FS-05",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17110006",
+            "Name": "Ashutosh Jindal",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8826241845",
+            "Room_No": "FS-06",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410003",
+            "Name": "Abhishek Devde",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "9760380011",
+            "Room_No": "FS-07",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113084",
+            "Name": "Sandeep Bhadu",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8755183880",
+            "Room_No": "FS-08",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18410010",
+            "Name": "Ketan ",
+            "Class": "GT",
+            "Dept": "GT",
+            "Mob_No": "91-7297877024",
+            "Room_No": "FS-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17110021",
+            "Name": "Pranshu Katiyar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9312275636",
+            "Room_No": "FS-10",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17110016",
+            "Name": "Mukul Chaudhary",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9407567416",
+            "Room_No": "FS-11",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17110024",
+            "Name": "Rohan Khedkar",
+            "Class": "B. Arch",
+            "Dept": "Arch.",
+            "Mob_No": "8096182305",
+            "Room_No": "FS-12",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17110014",
+            "Name": "Mayan Sachan",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9415044745",
+            "Room_No": "FS-13",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17110005",
+            "Name": "Ashish Bungla",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8941937488",
+            "Room_No": "FS-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411004",
+            "Name": "Akshay Vijay Kamath",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-9172063003",
+            "Room_No": "FS-15",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18410027",
+            "Name": "Yash Kute ",
+            "Class": "GT",
+            "Dept": "GT",
+            "Mob_No": "91-9890233626",
+            "Room_No": "FS-16",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18410009",
+            "Name": "Kanishk Singhal",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-8769787003",
+            "Room_No": "FS-17",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18410006",
+            "Name": "Ayush Abhinav ",
+            "Class": "GT",
+            "Dept": "GT",
+            "Mob_No": "91-8083849989",
+            "Room_No": "FS-18",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18410019",
+            "Name": "Rachit Gupta",
+            "Class": "GT",
+            "Dept": "GT",
+            "Mob_No": "91-9166366506",
+            "Room_No": "FS-19",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117019",
+            "Name": "Chaitanya Gaur",
+            "Class": "B.Tech",
+            "Dept": "B. Tech",
+            "Room_No": "FS-20",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117032",
+            "Name": "Harish Yadav",
+            "Class": "B.Tech",
+            "Dept": "B. Tech",
+            "Mob_No": "9571048626",
+            "Room_No": "FS-21",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117031",
+            "Name": "Gumshrang Basumatary",
+            "Class": "B.Tech",
+            "Dept": "B. Tech",
+            "Mob_No": "9678225234",
+            "Room_No": "FS-22",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18410002",
+            "Name": "Abhilash ",
+            "Class": "GT",
+            "Dept": "GT",
+            "Mob_No": "91-9414770285",
+            "Room_No": "FS-26",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113004",
+            "Name": "Abhishek Kumar Prajapati",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "7988347548",
+            "Room_No": "FS-27",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18410012",
+            "Name": "Mayur",
+            "Class": "GT",
+            "Dept": "GT",
+            "Mob_No": "91-9654564395",
+            "Room_No": "FS-28",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113005",
+            "Name": "Achyut Anant",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9999706212",
+            "Room_No": "FS-29",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18410020",
+            "Name": "Rachit Maurya ",
+            "Class": "GT",
+            "Dept": "GT",
+            "Mob_No": "91-8090864561",
+            "Room_No": "FS-30",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18410016",
+            "Name": "Prakhar ",
+            "Class": "GT",
+            "Dept": "GT",
+            "Mob_No": "91-9468699963",
+            "Room_No": "FS-31",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113030",
+            "Name": "Dushyant Singh",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "8168138817",
+            "Room_No": "FS-32",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113029",
+            "Name": "Divyansh Parihar",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9456319228",
+            "Room_No": "FS-33",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16113010",
+            "Name": "Akhil",
+            "Class": "B.Tech",
+            "Dept": "B.Tech",
+            "Mob_No": "9468159194",
+            "Room_No": "FS-34",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18410008",
+            "Name": "Jashan ",
+            "Class": "GT",
+            "Dept": "GT",
+            "Mob_No": "91-9660024261",
+            "Room_No": "FS-35",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411023",
+            "Name": "Pritesh Soni",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-9982099447",
+            "Room_No": "FT-01",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "15411006",
+            "Name": "Karukola Bharath",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "8500725049",
+            "Room_No": "FT-02",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410019",
+            "Name": "Mohit Kumar",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "8954042343",
+            "Room_No": "FT-03",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410009",
+            "Name": "Anwar Ali",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "7302149964",
+            "Room_No": "FT-04",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117023",
+            "Name": "Deepak Kumar",
+            "Class": "B.Tech",
+            "Dept": "B. Tech",
+            "Mob_No": "7737450299",
+            "Room_No": "FT-05",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410022",
+            "Name": "Saurav Sharma",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "8126154266",
+            "Room_No": "FT-06",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113050",
+            "Name": "Gurmeet",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9983391325",
+            "Room_No": "FT-07",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411020",
+            "Name": "Samir",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "8986635668",
+            "Room_No": "FT-08",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18113107",
+            "Name": "Rajat",
+            "Class": "B.Tech",
+            "Dept": "CIVIL",
+            "Mob_No": "91-9413502477",
+            "Room_No": "FT-09",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410004",
+            "Name": "Aditiya Chaudhary",
+            "Class": "IMT GT",
+            "Dept": "IMT GT",
+            "Mob_No": "7409228771",
+            "Room_No": "FT-10",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410012",
+            "Name": "Devesh Kapoor",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9914790254",
+            "Room_No": "FT-11",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411022",
+            "Name": "Satyam Pratap Singh",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9794327062",
+            "Room_No": "FT-12",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411005",
+            "Name": "Amandeep Deswal",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9467749819",
+            "Room_No": "FT-13",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411028",
+            "Name": "Tushar Goyal ",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9456707727",
+            "Room_No": "FT-14",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411025",
+            "Name": "Shubham Verma",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "8808060296",
+            "Room_No": "FT-15",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410027",
+            "Name": "Sudhir",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "8126119684",
+            "Room_No": "FT-16",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411026",
+            "Name": "Prashant Singh",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7830942332",
+            "Room_No": "FT-17",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410016",
+            "Name": "Kalpesh Katkade",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7350120800",
+            "Room_No": "FT-18",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410020",
+            "Name": "Prabal Gondane",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "7055558567",
+            "Room_No": "FT-19",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117029",
+            "Name": "Gograj Khadda",
+            "Class": "B.Tech",
+            "Dept": "B. Tech",
+            "Mob_No": "8449615384",
+            "Room_No": "FT-20",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117086",
+            "Name": "T. Akash",
+            "Class": "B.Tech",
+            "Dept": "B. Tech",
+            "Mob_No": "8547856746",
+            "Room_No": "FT-21",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411001",
+            "Name": "Abhishek Choudhary",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-9672045603",
+            "Room_No": "FT-21",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117067",
+            "Name": "Rajneesh Bijarniya",
+            "Class": "B.Tech",
+            "Dept": "B. Tech",
+            "Mob_No": "8003846893",
+            "Room_No": "FT-22",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411006",
+            "Name": "Anurag Mukherjee",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-8018082906",
+            "Room_No": "FT-23",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16410014",
+            "Name": "Himanshu Chauhan",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "9414421296",
+            "Room_No": "FT-24",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117053",
+            "Name": "Pankaj Dochania",
+            "Class": "B.Tech",
+            "Dept": "B. Tech",
+            "Mob_No": "9799827296",
+            "Room_No": "FT-25",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117030",
+            "Name": "Gopalaram Dheru",
+            "Class": "B.Tech",
+            "Dept": "B. Tech",
+            "Mob_No": "9672773050",
+            "Room_No": "FT-26",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18410026",
+            "Name": "Vivek ",
+            "Class": "GT",
+            "Dept": "GT",
+            "Mob_No": "91-9927455394",
+            "Room_No": "FT-27",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18410021",
+            "Name": "Radhesh ",
+            "Class": "GT",
+            "Dept": "GT",
+            "Mob_No": "91-7618131904",
+            "Room_No": "FT-28",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "16411013",
+            "Name": "Manas Jyoti Boro",
+            "Class": "IMT GPT",
+            "Dept": "IMT GPT",
+            "Mob_No": "8171784787",
+            "Room_No": "FT-30",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411016",
+            "Name": "Kartik Kumar Arya",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-9410111025",
+            "Room_No": "FT-31",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411014",
+            "Name": "Hemant Singh Adhikari",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "9411791580",
+            "Room_No": "FT-32",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "18411018",
+            "Name": "Lokesh Singh Danu",
+            "Class": "GPT",
+            "Dept": "GPT",
+            "Mob_No": "91-8171954311",
+            "Room_No": "FT-33",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117069",
+            "Name": "Ravindra Badiyasar",
+            "Class": "B.Tech",
+            "Dept": "B. Tech",
+            "Mob_No": "9549716604",
+            "Room_No": "FT-34",
+            "Bhawan": "Jawahar"
+        },
+        {
+            "Enro": "17117062",
+            "Name": "Prem Chand Gurjar",
+            "Class": "B.Tech",
+            "Dept": "B. Tech",
+            "Mob_No": "9982020936",
+            "Room_No": "FT-35",
+            "Bhawan": "Jawahar"
+        }
+    ]
+}
